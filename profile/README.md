@@ -9,4 +9,6 @@ When you add liquidity, you have to fill in max amount you wish to deploy in bot
 Unregistered tokens can be used by pasting contract address in the Selectors. 
 If you want your token to show with name in the tokenlist, please [fill the form](https://forms.gle/qFdcJTx13Qt13LHJA). For a token be listed it must have a minimum of activity!
 
+We have a 0.3% swapping fee, where 0.25% go to Liquidity providers, and 0.05% to development team.
+
 You can view our [contracts here](https://github.com/swapinco/contracts).
