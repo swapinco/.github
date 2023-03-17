@@ -5,7 +5,9 @@ Swapin.co are a simple but proven Automated Market Maker DEX, using the secure U
 Our frontend currently don't support tokens with a transaction fee, like reflect tokens.
 
 When you add liquidity, you have to fill in max amount you wish to deploy in both tokens. Final calculation will be shown in the red box. 
-First time deployer of a liquidity pair set the rate!
+First time deployer of a liquidity pair set the rate.
+
+Be aware your Liquidity Pool Tokens may be written as scientific notation, like 3.16e-9. This is a small number, 0.00000000316. 
 
 Unregistered tokens can be used by pasting contract address in the Selectors. 
 If you want your token to show with name in the tokenlist, please [fill the form](https://forms.gle/qFdcJTx13Qt13LHJA). For a token be listed it must have a minimum of activity!
