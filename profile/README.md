@@ -15,3 +15,6 @@ If you want your token to show with name in the tokenlist, please [fill the form
 We have a 0.3% swapping fee, where 0.25% go to Liquidity providers, and 0.05% to development team.
 
 You can view our [contracts here](https://github.com/swapinco/contracts).
+
+
+A static backup of our UI are [hosted here](https://github.com/swapinco/frontend) and can be deployed to any webserver.
