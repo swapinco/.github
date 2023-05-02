@@ -1,6 +1,6 @@
-# [Swapin.co](https://Swapin.co/dex) Documentation
+# [Swapin.co](https://Swapin.co/) Documentation
 
-[Swapin.co](https://Swapin.co/dex) are a simple but proven Automated Market Maker DEX, using the secure Uniswap V2 Contracts.
+[Swapin.co](https://Swapin.co/) are a simple but proven Automated Market Maker DEX, using the secure Uniswap V2 Contracts.
 
 Our frontend currently don't support tokens with a transaction fee, like reflect tokens.
 
@@ -16,5 +16,5 @@ We have a 0.3% swapping fee, where 0.25% go to Liquidity providers, and 0.05% to
 
 You can view our [contracts here](https://github.com/swapinco/contracts).
 
-
+Alternative URL:  [swapinco.vercel.app](https://swapinco.vercel.app/)
 A static backup of our UI are [hosted here](https://github.com/swapinco/frontend) and can be deployed to any webserver.
